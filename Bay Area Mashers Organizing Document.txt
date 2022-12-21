@@ -8,7 +8,6 @@ Our club purpose remains that stated in the Mission Statement: The Bay Area Mash
 
     To provide technical advice through education and skill development in regard to beer styles, brewing techniques, and beer evaluation;
     To serve as a buying agent of the finest ingredients available, and make these goods available to all club members;
-    To emphasize the use of All-Grain procedures, and encourage all members to develop these skills;
     To bring diverse people together, to promote both technical and social interactions;
     To hold regular monthly meetings to provide a forum for the interaction between members;
     To supply an online mailing list to keep members informed about club events and other pertinent information;
@@ -35,8 +34,9 @@ Article II        Duties of the executive committee:
     Act as a steering body for the club, that is, to guide the club into activities that support the mission statement.
     Draft members to tasks such as those needed to fulfill the mission statement.
     Make confidential judgment in any case of peer review resulting from unethical conduct.
-        If the executive committee finds anyone in serious violation of our code of ethics they shall, to the best of their ability, take appropriate action (such as calling and paying fare for a cab for a driver too intoxicated to safely operate a motor vehicle) to protect the liability of the club and its members from any resulting legal action. They shall inform the transgressor that a repeated violation will subject him to eviction from the club.
-        Repeat of unethical conduct shall be cause to revoke membership. If such action is taken, the revocation may be appealed to the full membership.
+        If the executive committee finds anyone in serious violation of our code of ethics they shall, to the best of their ability, take appropriate action (such as calling and paying fare for a cab for a driver too intoxicated to safely operate a motor vehicle) to protect the liability of the club and its members from any resulting legal action. They shall inform the transgressor that a repeated violation will subject him to eviction from the club. 
+        Repeat of unethical conduct shall be cause to revoke membership. If such action is taken, the revocation may be appealed to the full membership. If the ethical violation is serious enough, at the discression of the executive committee, eviction shall occur without waiting for a repeat offense.
+        Anyone evicted from the club will be banned from club communication mediums, and will be ejected from club meetings.
 
 Article III       Duties of the President:
 
@@ -75,9 +75,14 @@ Article VII      Duties of the members:
 
 Article VIII        Ethical Code:
 
-    Excessive drinking is a hazard of the craft that brings us together. This is an undesirable and avoidable occurrence. Therefore, let it be resolved that no member shall drink to excess as defined by the Department of Motor Vehicles. Further let it be resolved that no member shall coerce, entice or otherwise willingly suffer such abusive consumption on the part of any other member.
+    Excessive drinking is a hazard of the craft that brings us together. This is an undesirable and avoidable occurrence. This is a homebrewing club, not a drinking club. Therefore, let it be resolved that no member shall drink to the point that their behavior is disruptive, or show up to club events inebriated. Further let it be resolved that no member shall coerce, entice or otherwise willingly suffer such abusive consumption on the part of any other member, nor encourage another member to consume alcohol if they do not want to.
+    Members will follow all relevent laws regarding consumption of alcohol, especially regarding operating a motor vehicle. 
     Honesty and respect are valued principles to any society and integral to the trust we put in our fellow members. No member shall steal, be violent or engage in behavior that is disrespectful to others or themselves.
-    This club is as much a cooperative as it is an educational and social instrument. Our strength is dependent upon the individual contributions that members give to the club. Each member will endeavor to pull his own weight by paying dues on time and by doing chores in proportion to the net benefits they receive from the club.
+    Bay Area Mashers does not own property, so all meetings and events occur at a host's location. All members will show respect to the club's host, and refrain from actions or behaviors that would make the club unwelcome. This includes avoiding touching or moving property of the host without permission.
+    This club is as much a cooperative as it is an educational and social instrument. Our strength is dependent upon the individual contributions that members give to the club. Each member will endeavor to pull their own weight by paying dues on time and by doing chores in proportion to the net benefits they receive from the club.
+    We thrive on diversity, and everyone is welcome in this club. Members will not discriminate on the basis of gender, race, religion, age, sexuality or abilities.
+    This ethical code applies for any club promoted events, including but not limited to monthly meetings, online meetups, and brewery or bar visits.
+    Members are responsible for the behavior of any guests they bring to club activities.
 
 The Bay Area Mashers is hereby formed by the adoption of this instrument.
 
